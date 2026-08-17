@@ -282,51 +282,6 @@ These achievements include qualification for Round 2 of HACKINDIA at CBIT Hydera
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvadeepakmadem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvadeepakmadem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=yuvadeepakmadem&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yuvadeepakmadem&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvadeepakmadem&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yuvadeepakmadem/yuvadeepakmadem/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
 
 ## Current Focus
 
