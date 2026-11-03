@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=180&section=header&text=Yuva%20Deepak%20Madem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Java+%7C+Python+%7C+Machine+Learning;Building+AI-Powered+Products;100%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Java+%7C+Python+%7C+Machine+Learning;Building+AI-Powered+Products;300%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
