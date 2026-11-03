@@ -202,7 +202,7 @@ The project uses YOLO and OpenCV for traffic-flow organization in congested envi
 
 `Python` `Machine Learning` `Data Science` `Supervised Learning` `Problem Solving`
 
-### ISTE VITB — Member & Speaker
+### Ex-ISTE VITB Member & Speaker
 
 * Mentored juniors through a 4-day workshop.
 * Taught AI-assisted **Vibe Coding** techniques.
